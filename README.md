@@ -1,6 +1,6 @@
 # Concurrent Graph
 
-A Python implementation of a concurrent graph data structure with support for thread-safe operations and parallel breadth-first search (BFS) traversal.
+A Python implementation of a concurrent <u>directed</u> graph data structure with support for thread-safe operations and parallel breadth-first search (BFS) traversal.
 
 ## Features
 
@@ -76,3 +76,4 @@ from concurrent_graph import
 profile_bfs_methods
 
 profile_bfs_methods()
+```

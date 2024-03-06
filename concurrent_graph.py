@@ -7,7 +7,7 @@ import cProfile
 
 class ConcurrentGraph:
     """
-    A class representing a concurrent graph that supports thread-safe operations and parallel BFS traversal.
+    A class representing a concurrent directed graph that supports thread-safe operations and parallel BFS traversal.
 
     The ConcurrentGraph class provides a way to represent a graph data structure in a thread-safe manner,
     allowing for concurrent modifications and queries. One of the most interesting functionalities of this
